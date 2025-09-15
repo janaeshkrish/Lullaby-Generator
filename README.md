@@ -19,7 +19,8 @@ A Python application that generates lullabies using AI and language models.
 ## Usage
 
 Run the main script:
-```streamlit run main.py
+```bash
+streamlit run main.py
 ```
 
 Follow the prompts to generate your lullaby.
@@ -33,10 +34,5 @@ Lullaby-Generator/
 ├── requirements.txt
 ```
 
-## License
-
-MIT License
-
----
 
 *Created with ❤️ using AI and Python.*
