@@ -34,5 +34,9 @@ Lullaby-Generator/
 ├── requirements.txt
 ```
 
+![](https://github.com/janaeshkrish/Lullaby-Generator/blob/main/sample2.png)
+
+![](https://github.com/janaeshkrish/Lullaby-Generator/blob/main/sample1.png)
+
 
 *Created with ❤️ using AI and Python.*
